@@ -111,7 +111,7 @@ Despite being 10,000x larger, BERT provided:
 
 ### Use Transformers (BERT) When:
 -Dataset > 100k examples  
--Complex NLP tasks (NER, QA, summarization)  
+-Complex NLP tasks  
 -Context-dependent understanding is critical  
 -Multilingual requirements  
 -You have compute budget and time  
@@ -163,8 +163,8 @@ See `requirements.txt` for complete dependencies.
 
 ## 📫 Contact
 
-**Prahalad M** | Current Student @ Georgia Imstitute of Technology  
-[LinkedIn]() | prahalad@gatech.edu
+**Prahalad M** | Current Student @ Georgia Institute of Technology  
+[LinkedIn](https://www.linkedin.com/in/prahalad-muralidharan-8b9750aa/) | pmuralitharan3@gatech.edu
 
 **Built as part of portfolio demonstrating modern NLP techniques and ML engineering best practices.**
 
